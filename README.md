@@ -9,4 +9,4 @@ This is a website that hosts custom BTD 6 Maps, to be used with Timotheee and I'
 Name: Grassy Maze  
 Creator: TheMaster#3677  
 Download: [Here](https://github.com/Greenphx9/custom-maps/blob/main/maps/Grassy_Maze%20(1).zip?raw=true)  
-Screenshot: Unavailable  
+Screenshot: ![Grassy Maze](https://raw.githubusercontent.com/Greenphx9/custom-maps/main/screenshots/image_2022-01-05_181507.png)
