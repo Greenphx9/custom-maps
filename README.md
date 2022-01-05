@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a website that hosts custom BTD 6 Maps, to be used with Timotheee and I's map loader mod. To use these maps, follow the instructions here: https://github.com/hemisemidemipresent/btd6-modding-tutorial/blob/main/mapeditor.md, (the "How to use the map loader" section).
+This is a website that hosts custom BTD 6 Maps, to be used with Timotheee and I's map loader mod. To use these maps, follow the instructions [here]: (https://github.com/hemisemidemipresent/btd6-modding-tutorial/blob/main/mapeditor.md). (the "How to use the map loader" section).
 
 ### Markdown
 
