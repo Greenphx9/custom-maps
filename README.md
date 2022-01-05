@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Custom BTD 6 Maps
 
 You can use the [editor on GitHub](https://github.com/Greenphx9/custom-maps/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
