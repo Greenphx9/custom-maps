@@ -1,8 +1,8 @@
 ## Custom BTD 6 Maps
 
-You can use the [editor on GitHub](https://github.com/Greenphx9/custom-maps/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## What is this?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a website that hosts custom BTD 6 Maps, to be used with Timotheee and I's map loader mod. To use these maps, follow the instructions here: https://github.com/hemisemidemipresent/btd6-modding-tutorial/blob/main/mapeditor.md, (the "How to use the map loader" section).
 
 ### Markdown
 
