@@ -23,3 +23,9 @@ Creator: PlatSceptile#7784
 Download: [Here](https://github.com/Greenphx9/custom-maps/blob/main/maps/end_of_YOUR_line.zip?raw=true)  
 Screenshot: ![Grassy Maze](https://raw.githubusercontent.com/Greenphx9/custom-maps/main/screenshots/image.png)  
 Status: Working  
+
+Name: Circle   
+Creator: ThatOneRedYoshi#6377    
+Download: [Here](https://github.com/Greenphx9/custom-maps/blob/main/maps/circle.zip?raw=true)  
+Screenshot: ![Grassy Maze](https://raw.githubusercontent.com/Greenphx9/custom-maps/main/screenshots/gameplay_demo.png)  
+Status: Working  
